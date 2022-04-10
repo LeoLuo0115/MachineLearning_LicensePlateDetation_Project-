@@ -1,2 +1,2 @@
-# car_plate_project
+# Car_Plate_Detection
  
